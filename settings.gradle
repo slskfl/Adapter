@@ -1,0 +1,4 @@
+include ':customlistview'
+include ':spinnerex'
+include ':app'
+rootProject.name = "AdapterViewEx"
